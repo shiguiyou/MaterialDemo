@@ -18,7 +18,10 @@
         <activity
             android:name=".ToolbarAnimationActivity"
             android:theme="@style/AppTheme2" />
-        <activity android:name=".TabsActivity"></activity>
+        <activity android:name=".TabsActivity" />
+        <activity
+            android:name=".ParallaxScrollingTabsActivity"
+            android:theme="@style/Detail" />
     </application>
 
 </manifest>

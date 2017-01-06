@@ -10,7 +10,7 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     Toolbar toolbar;
-    CardView card1, card2;
+    CardView card1, card2, card3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,9 +23,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         card1 = (CardView) findViewById(R.id.cardlist_1);
         card2 = (CardView) findViewById(R.id.cardlist_2);
+        card3 = (CardView) findViewById(R.id.cardlist_3);
 
         card1.setOnClickListener(this);
         card2.setOnClickListener(this);
+        card3.setOnClickListener(this);
     }
 
     @Override
@@ -35,6 +37,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             startActivity(intent);
         } else if (view.getId() == R.id.cardlist_2) {
             Intent intent = new Intent(this, TabsActivity.class);
+            startActivity(intent);
+        } else if (view.getId() == R.id.cardlist_3) {
+            Intent intent = new Intent(this, ParallaxScrollingTabsActivity.class);
             startActivity(intent);
         }
     }

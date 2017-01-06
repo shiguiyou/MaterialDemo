@@ -7,3 +7,7 @@
 ### [Material Design Tabs](https://shiguiyou.github.io/2017/01/06/Material-Design-Tabs/)
 
 ![Demo2](https://ww4.sinaimg.cn/large/006y8lVagw1fbh1ch65k4g30830dhnpe.gif)
+
+### [Parallax Scrolling Tabs](https://shiguiyou.github.io/2017/01/06/Material-Design-Parallax-Scrolling-Tabs/)
+
+![Demo2](https://ww4.sinaimg.cn/large/006y8lVagw1fbhbz8nhwrg30990feu0x.gif)
