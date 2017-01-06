@@ -1,0 +1,214 @@
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6F4EC"
+    tools:context="com.shiguiyou.materialdemo.fragment.Tab1Fragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:textSize="12sp"
+            android:text="鬼吹灯 第一部 精绝古城" />
+
+        <TextView
+            android:textSize="12sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:text="本文来自落霞网http://www.luoxia.com/" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="16dp"
+            android:text="第一章 白纸人和鼠友"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_1"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_2"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_3"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_4"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_5"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_6"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_7"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_8"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_9"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_10"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_11"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_12"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_13"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_14"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_15"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:lineSpacingExtra="2sp"
+            android:text="@string/story_16"
+            android:textColor="@color/primary_text_default_material_light"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
